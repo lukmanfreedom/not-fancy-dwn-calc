@@ -8,14 +8,14 @@
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-        <title>Drinking Calculation</title>
+        <title>Daily Water Need Calculation</title>
     </head>
 
     <body>
         <div>
             <div class="jumbotron">
-                <h1 class="lead">Not Fancy</h1>
-                <h1 class="display-3">Drinking Calc</h1>
+                <h1 class="display-3">DWN Calc</h1>
+                <h1 class="lead">Not Fancy Daily Water Needs Calculation</h1>
             </div>
 
             <div class="row">
